@@ -25,7 +25,7 @@ dotnet --version
 
 ```bash
 git clone https://github.com/itchan17/CodingExercise.git
-cd CodingExercise
+cd CodingExercise/CodingExercise
 ```
 
 ### 2. Restore Dependencies
